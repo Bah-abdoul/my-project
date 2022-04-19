@@ -1,0 +1,20 @@
+.footer{
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+  align-items: center;
+  width: 100%;
+  margin: 2rem 0rem 0rem 0rem;
+  background-color:#1D3557 ;
+  padding: 1.5rem;
+}
+.footer p{
+    /* background-color: brown; */
+    text-align: center;
+    padding: 1rem;
+    margin-left: 20% ;
+    color: #fff;
+    font-size: 200;
+
+}
